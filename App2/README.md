@@ -1,6 +1,6 @@
 
 
-## Tutorial sobre flexbox e stylesheed
+## Tutorial sobre flexbox e stylesheet
 
 ### O que é
 - Stylesheet é uma imitação do css que nós usamos na web. Portanto, não será 100% igual, mas é muito bom. No final ele transforma para codigo de acordo com o dispositivo, sendo bem flexivel.
